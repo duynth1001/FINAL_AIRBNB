@@ -1,4 +1,4 @@
-CyberSoft Final Project(Airbnb)
+CyberSoft Final Project(Airbnb clone)
 
 Created by: Nguyễn Trần Hoàng Duy
 
